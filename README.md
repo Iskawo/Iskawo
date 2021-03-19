@@ -6,3 +6,4 @@
 
 ### Stats 🕹️
 [![Stats](https://github-readme-stats.vercel.app/api?username=Iskawo&theme=tokyonight)](https://github.com/Iskawo)
+[![Stats](https://github-readme-streak-stats.herokuapp.com/?user=Iskawo)](https://github.com/Iskawo)

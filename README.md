@@ -7,10 +7,10 @@
 
 [br4d](https://br4d.vip/) ➜ My personal website
 
+## Contact
+You can contact me at [contact@br4d.vip](https://br4d.vip/contact)
+
 ## 🕹️ Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=Iskawo&theme=react)](https://github.com/Iskawo)
 [![Stats](https://github-readme-streak-stats.herokuapp.com/?user=Iskawo)](https://github.com/Iskawo)
 
-## Contact
-
-You can contact me at [contact@br4d.vip](https://br4d.vip/contact)

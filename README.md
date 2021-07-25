@@ -1,7 +1,7 @@
 ### Greetings programmers 🖥️
 
 ### What i enjoy
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 
 ### Projects I'm currently developing ⏱️
 [Rada](https://github.com/Iskawo/Rada/) ➜ Open Source Discord bot using [discord.js](https://discord.js.org) and the [discord-akairo](https://discord-akairo.github.io/#/) framework

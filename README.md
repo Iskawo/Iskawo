@@ -13,8 +13,8 @@
 You can contact me at [contact@br4d.vip](https://br4d.vip/contact)
 
 ## 🕹️ Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=Iskawo&theme=react)](https://github.com/Iskawo)
-[![Stats](https://github-readme-streak-stats.herokuapp.com/?user=Iskawo)](https://github.com/Iskawo)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Iskawo&theme=react&hide_border=true)](https://github.com/Iskawo)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Iskawo&theme=react&hide_border=true)](https://git.io/streak-stats)
 
 [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Iskawo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)](https://github.com/Iskawo)
 

@@ -10,3 +10,7 @@
 ### 🕹️ Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=Iskawo&theme=react)](https://github.com/Iskawo)
 [![Stats](https://github-readme-streak-stats.herokuapp.com/?user=Iskawo)](https://github.com/Iskawo)
+
+## Stargazers
+
+[![Stargazers repo roster for @Iskawo/Iskawo](https://reporoster.com/stars/Iskawo/Iskawo)](https://github.com/Iskawo/Iskawo/stargazers)

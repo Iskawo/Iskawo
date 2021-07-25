@@ -1,9 +1,5 @@
 # [![br4d header](https://raw.githubusercontent.com/Iskawo/Iskawo/main/standard.gif)](https://br4d.vip)
 
-### What i enjoy
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Web_Development-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-
 ### Projects I'm currently developing ⏱️
 [Rada](https://github.com/Iskawo/Rada/) ➜ Open Source Discord bot using [discord.js](https://discord.js.org) and the [discord-akairo](https://discord-akairo.github.io/#/) framework
 

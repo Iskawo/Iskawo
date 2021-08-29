@@ -5,7 +5,7 @@
 
 [Rada (rewrite)](https://github.com/RadaBot/Rada/) ➜ Open Source Discord bot using [discord.js V13](https://discord.js.org) and the [discord-akairo](https://discord-akairo.github.io/#/) framework
 
-[![Rada](https://github-readme-stats.vercel.app/api/pin/?username=Iskawo&repo=Rada&title_color=ffffff&text_color=FCFAFF&icon_color=61d3fc&bg_color=20232a&hide_border=true)](https://github.com/RadaBot/Rada)
+[![Rada](https://github-readme-stats.vercel.app/api/pin/?username=Iskawo&repo=Rada&title_color=ffffff&text_color=FCFAFF&icon_color=ef5452&bg_color=20232a&hide_border=true)](https://github.com/RadaBot/Rada)
 
 [The Campsite](https://campsite.group/) ➜ My Discord community
 

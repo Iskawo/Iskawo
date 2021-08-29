@@ -18,5 +18,5 @@ You can contact me at [contact@br4d.vip](https://br4d.vip/contact)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Iskawo&theme=react&hide_border=true)](https://git.io/streak-stats)
 [![Stats](https://github-readme-stats.vercel.app/api?username=Iskawo&theme=react&hide_border=true&show_icons=true)](https://github.com/Iskawo)
 
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iskawo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&theme=react&hide_border=true)](https://github.com/Iskawo)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iskawo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&layout=compact&theme=react&hide_border=true)](https://github.com/Iskawo)
 

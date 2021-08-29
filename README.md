@@ -1,7 +1,8 @@
 # [![br4d header](https://raw.githubusercontent.com/Iskawo/Iskawo/main/standard.gif)](https://br4d.vip)
 
 ## ⏱️ Projects I'm currently developing
-[Rada](https://github.com/Iskawo/Rada/) ➜ Open Source Discord bot using [discord.js](https://discord.js.org) and the [discord-akairo](https://discord-akairo.github.io/#/) framework
+~~[Rada](https://github.com/Iskawo/Rada/) ➜ Open Source Discord bot using [discord.js](https://discord.js.org) and the [discord-akairo](https://discord-akairo.github.io/#/) framework~~
+[Rada (rewrite)](https://github.com/RadaBot/Rada/) ➜ Open Source Discord bot using [discord.js V13](https://discord.js.org) and the [discord-akairo](https://discord-akairo.github.io/#/) framework
 
 [![Rada](https://github-readme-stats.vercel.app/api/pin/?username=Iskawo&repo=rada&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true)](https://github.com/Iskawo/Rada)
 

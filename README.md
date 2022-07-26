@@ -8,6 +8,7 @@
 [![Rada](https://github-readme-stats.vercel.app/api/pin/?username=br4dw&repo=Rada&title_color=ffffff&text_color=FCFAFF&icon_color=ef5452&bg_color=20232a&hide_border=true)](https://github.com/RadaBot/Rada)
 
 [The Campsite](https://discord.gg/4K4DYM5) ➜ My Discord community
+
 [Tech Hub](https://discord.com/G9q8USQ53j) ➜ Community about Tech, Programming and Gaming topics.
 
 [br4d](https://br4d.vip/) ➜ My personal website

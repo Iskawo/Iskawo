@@ -23,7 +23,7 @@
 
 [![Rada rewrite](https://github-readme-stats.vercel.app/api/pin/?username=bizojs&repo=Rada&title_color=ffffff&text_color=FCFAFF&icon_color=ef5452&bg_color=20232a&hide_border=true)](https://github.com/RadaBot/Rada)
 
-[Rada Dashboard V3.0](https://rada.br4d.dev)
+[Rada Dashboard V3.0](https://rada.br4d.dev) ➜ Version 3.0 of [Rada](https://github.com/RadaBot/Rada)'s Dashboard.
 
 [Website](https://v1.br4d.dev/) ➜ My current personal website.
 

@@ -17,17 +17,15 @@
 
 ## ⏱️ In development
 
-- Personal Website 2.0
+Nothing is currently in development.
 
 ## 🏷️ Projects & communities
 
-[![Rada rewrite](https://github-readme-stats.vercel.app/api/pin/?username=bizojs&repo=Rada&title_color=ffffff&text_color=FCFAFF&icon_color=ef5452&bg_color=20232a&hide_border=true)](https://github.com/RadaBot/Rada)
+[![Rada Bot](https://github-readme-stats.vercel.app/api/pin/?username=bizojs&repo=Rada&title_color=ffffff&text_color=FCFAFF&icon_color=ef5452&bg_color=20232a&hide_border=true)](https://github.com/RadaBot/Rada)
 
-[Rada Dashboard V3.0](https://rada.br4d.dev) ➜ Version 3.0 of [Rada](https://github.com/RadaBot/Rada)'s Dashboard.
+[Rada Dashboard](https://rada.br4d.dev) ➜ Version 3.0 of [Rada](https://github.com/RadaBot/Rada)'s Dashboard.
 
-[Website](https://v1.br4d.dev/) ➜ My current personal website.
-
-[Vibe Village 💎](https://discord.gg/vibevillage) ➜ My new community all about good vibes.
+[Website](https://br4d.dev/) ➜ My current personal website.
 
 ## Contact
 Want to get in touch? Contact me here - [contact@br4d.dev](mailto:contact@br4d.dev)

@@ -6,7 +6,7 @@ I've been learning to code since Q1 of 2017, starting out making Discord bots. S
 *   ✉️  You can contact me at [contact@bizo.dev](mailto:contact@bizo.dev)
 *   🚀  I'm currently working on [bizo.dev](http://bizo.dev)
 *   🧠  I'm learning SvelteKit, TailwindCSS, Front-end Design
-*   
+
 ### Skills 
 <p align="left" style="display: flex; gap: 5px; flex-wrap: wrap;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
